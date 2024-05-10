@@ -1,8 +1,8 @@
 # 123210085_Tugas-API
-Projek tugas yang ada shared preferences dan API
-nama : Aditya Difa
+Projek tugas yang ada shared preferences dan API<br>
+nama : Aditya Difa<br>
 Nim : 123210085
-
+<br><br>
 # API
 ## Fakta Kucing
 Fakta Kucing/ Cat Facts : 
