@@ -1,8 +1,5 @@
 # 123210085_Tugas-API
 Projek tugas yang ada shared preferences dan API
-
-# 123210085_Tugas-API
-Projek tugas yang ada shared preferences dan API
 nama : Aditya Difa
 Nim : 123210085
 
